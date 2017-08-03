@@ -2,7 +2,7 @@
 
 
 install 
-> go get gitlab.gaodun.com/golib/alisms
+> go get github.com/chenxuey/alisms
 
 调用代码
 ```
